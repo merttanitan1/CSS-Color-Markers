@@ -1,0 +1,1 @@
+Different color values and pairing colors with each others.
